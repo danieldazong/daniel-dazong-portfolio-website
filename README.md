@@ -87,12 +87,6 @@ npm run build
 ## 📬 Contact & Connect
 
 * **Developer:** Daniel Dazong
-* **LinkedIn:** [Insert LinkedIn Profile URL]
-* **GitHub:** [@danieldazong](https://www.google.com/search?q=https://github.com/danieldazong)
-* **Email:** [Insert Professional Email Address]
-
-
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+* **LinkedIn:** https://www.linkedin.com/in/danieldazong
+* **GitHub:** https://github.com/danieldazong
+* **Email:** danieldazong08@gmail.com
