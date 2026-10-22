@@ -9,7 +9,7 @@ A modern, responsive personal developer portfolio built to showcase engineering 
 
 
 ## 🔗 Live Demo
-- **Live Website:** [Insert Live URL Here, e.g., https://yourdomain.com]
+- **Live Website:** https://www.danieldazong.com/
 - **Deployment Platform:** [Vercel / Netlify / GitHub Pages]
 
 
